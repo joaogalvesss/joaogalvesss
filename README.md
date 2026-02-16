@@ -33,15 +33,6 @@
 
 ---
 
-### 📊 Meu Progresso em Código
-
-<div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=joaogalvesss&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=joaogalvesss&layout=compact&langs_count=7&theme=tokyonight" />
-</div>
-
----
-
 ### 🔭 No que estou focado agora:
 - 🚀 Aprofundando em **React.js** e ecossistema Moderno.
 - 🎨 Aperfeiçoando conceitos de **UI/UX Design** e Responsividade.
